@@ -1,0 +1,11 @@
+=== STRUK KASIR MINI UMKM ===
+Tanggal: 2026-07-18 08:32:14
+-----------------------------
+Roti Bakar Cokelat x1 : Rp 12000
+Kentang Goreng x1 : Rp 10000
+Es Teh Manis x1 : Rp 5000
+-----------------------------
+TOTAL      : Rp 27000
+BAYAR      : Rp 50000
+KEMBALIAN  : Rp 23000
+=============================
